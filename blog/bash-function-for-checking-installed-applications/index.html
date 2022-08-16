@@ -106,7 +106,7 @@
     "keywords": ["bash","programming"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "303"
+    "wordCount": "305"
   }]
   </script>
 
@@ -353,6 +353,28 @@
     </header>
     <section class="flex flex-col max-w-full mt-0 prose lg:flex-row dark:prose-invert">
       
+        <div class="order-first px-0 lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8 lg:order-last">
+          <div class="ltr:pl-5 rtl:pr-5 toc lg:sticky lg:top-10 print:hidden">
+            <details open class="mt-0 overflow-hidden rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 text-neutral-800 dark:text-neutral-100 lg:hidden bg-neutral-100 dark:bg-neutral-700"
+  >
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted ltr:border-l rtl:border-r rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 border-neutral-300 dark:border-neutral-600"
+  >
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#usage">Usage</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+          </div>
+        </div>
+      
       <div class="min-w-0 min-h-0 max-w-prose">
         <div class="!mb-9 text-xl lead">
   Telling your future self exactly where to find that tool you need is always a good idea.
@@ -398,7 +420,8 @@
 </span></span><span class="line"><span class="cl">    <span class="nb">echo</span> <span class="s2">&#34;Required applications are installed.&#34;</span>
 </span></span><span class="line"><span class="cl">  <span class="k">fi</span>
 </span></span><span class="line"><span class="cl"><span class="o">}</span>
-</span></span></code></pre></div><p>To use this function, just copy it into any bash script and add <code>check_installed</code> to the main flow. Edit the the expandable list of required applications (<code>required_applications</code>) and where to find them (<code>app_link_appname</code>).</p>
+</span></span></code></pre></div><h2 id="usage" class="relative group">Usage <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#usage" aria-label="Anchor">#</a></span></h2>
+<p>To use this function, just copy it into any bash script and add <code>check_installed</code> to the main flow. Edit the the expandable list of required applications (<code>required_applications</code>) and where to find them (<code>app_link_appname</code>).</p>
 <p>Be sure to match the exact <code>appname</code> in the <code>app_link_x</code> variable since this is used to assign the application to a specific message for getting the app installed.</p>
 
       </div>
