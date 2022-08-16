@@ -106,7 +106,7 @@
     "keywords": ["bash","programming"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "304"
+    "wordCount": "303"
   }]
   </script>
 
@@ -370,7 +370,7 @@
 </p>
 <p>I often find myself writing small bash scripts for doing repetitive tasks on various *nix machines where I may not 100% know which applications are installed. I&rsquo;ve come up with a bash function to solve this problem that I thought was worth sharing on a quick post.</p>
 <p>This works especially well for internally developed applications where the latest version needs to be hunted down every time and allows me to get whatever application I need installed quickly from a known trusted location.</p>
-<p>This function has also proved useful for adding to shared scripts within my team. It helps to notify people that the script will not work before hitting errors for missing installed tools and it allows me to show where I&rsquo;ve sourced the required applications that they need in order to use the script.</p>
+<p>The function has also proved useful for adding to shared scripts within my team. It helps notify people that the script will not work before hitting errors for missing installed tools and it allows me to show where I&rsquo;ve sourced the required applications that they need in order to use the script.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">check_installed<span class="o">()</span> <span class="o">{</span>
 </span></span><span class="line"><span class="cl">  <span class="nv">required_applications</span><span class="o">=(</span> <span class="s2">&#34;terraform&#34;</span> <span class="s2">&#34;vault&#34;</span> <span class="s2">&#34;jq&#34;</span> <span class="s2">&#34;frank_app&#34;</span> <span class="o">)</span>
 </span></span><span class="line"><span class="cl">
