@@ -478,7 +478,7 @@
 <ol>
 <li>Go to AWS Secrets Manager in your console and click &ldquo;Store a new secret&rdquo;.
 <img src="images/secretsmanager1.png" width="800"/></li>
-<li>Select &ldquo;Other type of secrets&rdquo; for the secret type and input your Slack secrets as shown below (you won&rsquo;t yet have a Slack refresh token if you haven&rsquo;t exchanged your non-expiring token for an expring one).
+<li>Select &ldquo;Other type of secrets&rdquo; for the secret type and input your Slack secrets as shown below (you won&rsquo;t yet have a Slack refresh token if you haven&rsquo;t exchanged your non-expiring token for an expiring one).
 <img src="images/secretsmanager2.png" width="600"/></li>
 <li>Input the name of the secret <em>e.g. &ldquo;slack-bot-secrets&rdquo;</em>.
 <img src="images/secretsmanager3.png" width="600"/></li>
@@ -507,7 +507,7 @@ $ zip -r slack_sdk.zip python
 <h3 id="main-lambda-function" class="relative group">Main Lambda Function <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#main-lambda-function" aria-label="Anchor">#</a></span></h3>
 <p>Third, you need to create the Lambda functions that will be doing the Slack bot token rotation.</p>
 <ol>
-<li>You  need to setup your frist Lambda function for doing the rotation - <em>slack-bot-rotation.py</em> below has the code that will be used by Secrets Manager to rotate the token. Make sure &ldquo;Create a new role with basic Lambda permissions&rdquo; is selected.
+<li>You  need to setup your first Lambda function for doing the rotation - <em>slack-bot-rotation.py</em> below has the code that will be used by Secrets Manager to rotate the token. Make sure &ldquo;Create a new role with basic Lambda permissions&rdquo; is selected.
 <img src="images/create_lambda1-1.png" width="800"/></li>
 <li>Paste in the code from <em>slack-bot-rotation.py</em> and click <em>deploy</em>.
 <img src="images/create_lambda2-1.png" width="800"/></li>
