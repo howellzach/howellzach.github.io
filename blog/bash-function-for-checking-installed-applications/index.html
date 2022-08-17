@@ -404,7 +404,7 @@
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">  <span class="nv">missing_applications</span><span class="o">=()</span>
 </span></span><span class="line"><span class="cl">  <span class="k">for</span> app in <span class="s2">&#34;</span><span class="si">${</span><span class="nv">required_applications</span><span class="p">[@]</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">;</span> <span class="k">do</span>
-</span></span><span class="line"><span class="cl">    <span class="k">if</span> ! <span class="nb">command</span> -v <span class="s2">&#34;</span><span class="nv">$i</span><span class="s2">&#34;</span> <span class="p">&amp;</span>&gt; /dev/null<span class="p">;</span> <span class="k">then</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> ! <span class="nb">command</span> -v <span class="s2">&#34;</span><span class="nv">$app</span><span class="s2">&#34;</span> <span class="p">&amp;</span>&gt; /dev/null<span class="p">;</span> <span class="k">then</span>
 </span></span><span class="line"><span class="cl">      <span class="nv">missing_applications</span><span class="o">+=(</span><span class="s2">&#34;</span><span class="nv">$app</span><span class="s2">&#34;</span><span class="o">)</span>
 </span></span><span class="line"><span class="cl">    <span class="k">fi</span>
 </span></span><span class="line"><span class="cl">  <span class="k">done</span>
