@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cloud on howellza.ch</title><link>https://howellzach.github.io/tags/cloud/</link><description>Recent content in cloud on howellza.ch</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Zach Howell. All rights reserved.</copyright><lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate><atom:link href="https://howellzach.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>HashiCorp Vault Secrets Public Beta</title><link>https://howellzach.github.io/blog/vault-secrets-beta/</link><pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate><guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid><description>There&amp;rsquo;s a new cloud-based secret management solution on the block.</description></item><item><title>Server-less Slack Bot Token Rotation</title><link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link><pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate><guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid><description>Have you ever wanted to manually setup Slack bot token rotation with server-less infrastructure in AWS?</description></item><item><title>Hawk - Tooling for Office 365 Log Gathering</title><link>https://howellzach.github.io/blog/gathering-o365-logs/</link><pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate><guid>https://howellzach.github.io/blog/gathering-o365-logs/</guid><description>When responding to an incident involving compromised O365 credentials, the hardest part can often be gathering all the logs required to determine the root cause.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on howellza.ch</title>
+    <link>https://howellzach.github.io/tags/cloud/</link>
+    <description>Recent content in cloud on howellza.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Zach Howell. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate><atom:link href="https://howellzach.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HashiCorp Vault Secrets Public Beta</title>
+      <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
+      <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
+      
+      <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
+      <description>There&amp;rsquo;s a new cloud-based secret management solution on the block.</description>
+    </item>
+    
+    <item>
+      <title>Server-less Slack Bot Token Rotation</title>
+      <link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link>
+      <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
+      
+      <guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid>
+      <description>Have you ever wanted to manually setup Slack bot token rotation with server-less infrastructure in AWS?</description>
+    </item>
+    
+    <item>
+      <title>Hawk - Tooling for Office 365 Log Gathering</title>
+      <link>https://howellzach.github.io/blog/gathering-o365-logs/</link>
+      <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
+      
+      <guid>https://howellzach.github.io/blog/gathering-o365-logs/</guid>
+      <description>When responding to an incident involving compromised O365 credentials, the hardest part can often be gathering all the logs required to determine the root cause.</description>
+    </item>
+    
+  </channel>
+</rss>

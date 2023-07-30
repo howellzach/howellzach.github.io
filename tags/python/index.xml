@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>python on howellza.ch</title><link>https://howellzach.github.io/tags/python/</link><description>Recent content in python on howellza.ch</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Zach Howell. All rights reserved.</copyright><lastBuildDate>Mon, 30 Aug 2021 05:27:55 +0000</lastBuildDate><atom:link href="https://howellzach.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Server-less Slack Bot Token Rotation</title><link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link><pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate><guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid><description>Have you ever wanted to manually setup Slack bot token rotation with server-less infrastructure in AWS?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on howellza.ch</title>
+    <link>https://howellzach.github.io/tags/python/</link>
+    <description>Recent content in python on howellza.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Zach Howell. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 05:27:55 +0000</lastBuildDate><atom:link href="https://howellzach.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server-less Slack Bot Token Rotation</title>
+      <link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link>
+      <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
+      
+      <guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid>
+      <description>Have you ever wanted to manually setup Slack bot token rotation with server-less infrastructure in AWS?</description>
+    </item>
+    
+  </channel>
+</rss>

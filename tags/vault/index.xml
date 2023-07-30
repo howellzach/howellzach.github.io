@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vault on howellza.ch</title><link>https://howellzach.github.io/tags/vault/</link><description>Recent content in vault on howellza.ch</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Zach Howell. All rights reserved.</copyright><lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate><atom:link href="https://howellzach.github.io/tags/vault/index.xml" rel="self" type="application/rss+xml"/><item><title>HashiCorp Vault Secrets Public Beta</title><link>https://howellzach.github.io/blog/vault-secrets-beta/</link><pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate><guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid><description>There&amp;rsquo;s a new cloud-based secret management solution on the block.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vault on howellza.ch</title>
+    <link>https://howellzach.github.io/tags/vault/</link>
+    <description>Recent content in vault on howellza.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Zach Howell. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate><atom:link href="https://howellzach.github.io/tags/vault/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HashiCorp Vault Secrets Public Beta</title>
+      <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
+      <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
+      
+      <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
+      <description>There&amp;rsquo;s a new cloud-based secret management solution on the block.</description>
+    </item>
+    
+  </channel>
+</rss>
