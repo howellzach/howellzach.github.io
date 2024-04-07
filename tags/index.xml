@@ -7,123 +7,98 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate><atom:link href="https://howellzach.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
+    <atom:link href="https://howellzach.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cloud</title>
+      <title>Cloud</title>
       <link>https://howellzach.github.io/tags/cloud/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/cloud/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golang</title>
+      <title>Golang</title>
       <link>https://howellzach.github.io/tags/golang/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>secrets</title>
+      <title>Secrets</title>
       <link>https://howellzach.github.io/tags/secrets/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/secrets/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>security</title>
+      <title>Security</title>
       <link>https://howellzach.github.io/tags/security/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vault</title>
+      <title>Vault</title>
       <link>https://howellzach.github.io/tags/vault/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/vault/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bash</title>
+      <title>Bash</title>
       <link>https://howellzach.github.io/tags/bash/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/bash/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://howellzach.github.io/tags/programming/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
-      
       <guid>https://howellzach.github.io/tags/programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>aws</title>
+      <title>Aws</title>
       <link>https://howellzach.github.io/tags/aws/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/aws/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://howellzach.github.io/tags/python/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>slack</title>
+      <title>Slack</title>
       <link>https://howellzach.github.io/tags/slack/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/slack/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>terraform</title>
+      <title>Terraform</title>
       <link>https://howellzach.github.io/tags/terraform/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/terraform/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>incident response</title>
+      <title>Incident Response</title>
       <link>https://howellzach.github.io/tags/incident-response/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/incident-response/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>O365</title>
       <link>https://howellzach.github.io/tags/o365/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      
       <guid>https://howellzach.github.io/tags/o365/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,6 +6,7 @@
     <description>Recent content in Categories on howellza.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Zach Howell. All rights reserved.</copyright><atom:link href="https://howellzach.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Zach Howell. All rights reserved.</copyright>
+    <atom:link href="https://howellzach.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
