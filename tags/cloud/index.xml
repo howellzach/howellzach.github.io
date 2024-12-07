@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on howellza.ch</title>
-    <link>https://howellzach.github.io/tags/cloud/</link>
+    <link>https://howellza.ch/tags/cloud/</link>
     <description>Recent content in Cloud on howellza.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
-    <atom:link href="https://howellzach.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://howellza.ch/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HashiCorp Vault Secrets Public Beta</title>
-      <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
+      <link>https://howellza.ch/blog/vault-secrets-beta/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
+      <guid>https://howellza.ch/blog/vault-secrets-beta/</guid>
       <description></description>
     </item>
     <item>
       <title>Server-less Slack Bot Token Rotation</title>
-      <link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link>
+      <link>https://howellza.ch/blog/server-less-slack-bot-token-rotation/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid>
+      <guid>https://howellza.ch/blog/server-less-slack-bot-token-rotation/</guid>
       <description></description>
     </item>
     <item>
       <title>Hawk - Tooling for Office 365 Log Gathering</title>
-      <link>https://howellzach.github.io/blog/gathering-o365-logs/</link>
+      <link>https://howellza.ch/blog/gathering-o365-logs/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/gathering-o365-logs/</guid>
+      <guid>https://howellza.ch/blog/gathering-o365-logs/</guid>
       <description></description>
     </item>
   </channel>

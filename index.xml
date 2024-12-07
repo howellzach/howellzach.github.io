@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>howellza.ch</title>
-    <link>https://howellzach.github.io/</link>
+    <link>https://howellza.ch/</link>
     <description>Recent content on howellza.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
-    <atom:link href="https://howellzach.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://howellza.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HashiCorp Vault Secrets Public Beta</title>
-      <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
+      <link>https://howellza.ch/blog/vault-secrets-beta/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
+      <guid>https://howellza.ch/blog/vault-secrets-beta/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash Function for Checking Installed Applications</title>
-      <link>https://howellzach.github.io/blog/bash-function-for-checking-installed-applications/</link>
+      <link>https://howellza.ch/blog/bash-function-for-checking-installed-applications/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
-      <guid>https://howellzach.github.io/blog/bash-function-for-checking-installed-applications/</guid>
+      <guid>https://howellza.ch/blog/bash-function-for-checking-installed-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Simple CLI Colorizing in Go</title>
-      <link>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</link>
+      <link>https://howellza.ch/blog/simple-cli-colorizing-in-go/</link>
       <pubDate>Mon, 21 Mar 2022 09:40:30 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</guid>
+      <guid>https://howellza.ch/blog/simple-cli-colorizing-in-go/</guid>
       <description></description>
     </item>
     <item>
       <title>Server-less Slack Bot Token Rotation</title>
-      <link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link>
+      <link>https://howellza.ch/blog/server-less-slack-bot-token-rotation/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid>
+      <guid>https://howellza.ch/blog/server-less-slack-bot-token-rotation/</guid>
       <description></description>
     </item>
     <item>
       <title>Hawk - Tooling for Office 365 Log Gathering</title>
-      <link>https://howellzach.github.io/blog/gathering-o365-logs/</link>
+      <link>https://howellza.ch/blog/gathering-o365-logs/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/gathering-o365-logs/</guid>
+      <guid>https://howellza.ch/blog/gathering-o365-logs/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://howellzach.github.io/about-me/</link>
+      <link>https://howellza.ch/about-me/</link>
       <pubDate>Mon, 13 Jul 2020 04:29:12 +0000</pubDate>
-      <guid>https://howellzach.github.io/about-me/</guid>
+      <guid>https://howellza.ch/about-me/</guid>
       <description></description>
     </item>
   </channel>

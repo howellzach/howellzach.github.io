@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on howellza.ch</title>
-    <link>https://howellzach.github.io/tags/</link>
+    <link>https://howellza.ch/tags/</link>
     <description>Recent content in Tags on howellza.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
-    <atom:link href="https://howellzach.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://howellza.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud</title>
-      <link>https://howellzach.github.io/tags/cloud/</link>
+      <link>https://howellza.ch/tags/cloud/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/cloud/</guid>
+      <guid>https://howellza.ch/tags/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://howellzach.github.io/tags/golang/</link>
+      <link>https://howellza.ch/tags/golang/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/golang/</guid>
+      <guid>https://howellza.ch/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Secrets</title>
-      <link>https://howellzach.github.io/tags/secrets/</link>
+      <link>https://howellza.ch/tags/secrets/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/secrets/</guid>
+      <guid>https://howellza.ch/tags/secrets/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://howellzach.github.io/tags/security/</link>
+      <link>https://howellza.ch/tags/security/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/security/</guid>
+      <guid>https://howellza.ch/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Vault</title>
-      <link>https://howellzach.github.io/tags/vault/</link>
+      <link>https://howellza.ch/tags/vault/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/vault/</guid>
+      <guid>https://howellza.ch/tags/vault/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
-      <link>https://howellzach.github.io/tags/bash/</link>
+      <link>https://howellza.ch/tags/bash/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/bash/</guid>
+      <guid>https://howellza.ch/tags/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://howellzach.github.io/tags/programming/</link>
+      <link>https://howellza.ch/tags/programming/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
-      <guid>https://howellzach.github.io/tags/programming/</guid>
+      <guid>https://howellza.ch/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Aws</title>
-      <link>https://howellzach.github.io/tags/aws/</link>
+      <link>https://howellza.ch/tags/aws/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/aws/</guid>
+      <guid>https://howellza.ch/tags/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://howellzach.github.io/tags/python/</link>
+      <link>https://howellza.ch/tags/python/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/python/</guid>
+      <guid>https://howellza.ch/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Slack</title>
-      <link>https://howellzach.github.io/tags/slack/</link>
+      <link>https://howellza.ch/tags/slack/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/slack/</guid>
+      <guid>https://howellza.ch/tags/slack/</guid>
       <description></description>
     </item>
     <item>
       <title>Terraform</title>
-      <link>https://howellzach.github.io/tags/terraform/</link>
+      <link>https://howellza.ch/tags/terraform/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/terraform/</guid>
+      <guid>https://howellza.ch/tags/terraform/</guid>
       <description></description>
     </item>
     <item>
       <title>Incident Response</title>
-      <link>https://howellzach.github.io/tags/incident-response/</link>
+      <link>https://howellza.ch/tags/incident-response/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/incident-response/</guid>
+      <guid>https://howellza.ch/tags/incident-response/</guid>
       <description></description>
     </item>
     <item>
       <title>O365</title>
-      <link>https://howellzach.github.io/tags/o365/</link>
+      <link>https://howellza.ch/tags/o365/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      <guid>https://howellzach.github.io/tags/o365/</guid>
+      <guid>https://howellza.ch/tags/o365/</guid>
       <description></description>
     </item>
   </channel>

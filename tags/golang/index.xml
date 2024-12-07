@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on howellza.ch</title>
-    <link>https://howellzach.github.io/tags/golang/</link>
+    <link>https://howellza.ch/tags/golang/</link>
     <description>Recent content in Golang on howellza.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
-    <atom:link href="https://howellzach.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://howellza.ch/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HashiCorp Vault Secrets Public Beta</title>
-      <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
+      <link>https://howellza.ch/blog/vault-secrets-beta/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
-      <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
+      <guid>https://howellza.ch/blog/vault-secrets-beta/</guid>
       <description></description>
     </item>
     <item>
       <title>Simple CLI Colorizing in Go</title>
-      <link>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</link>
+      <link>https://howellza.ch/blog/simple-cli-colorizing-in-go/</link>
       <pubDate>Mon, 21 Mar 2022 09:40:30 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</guid>
+      <guid>https://howellza.ch/blog/simple-cli-colorizing-in-go/</guid>
       <description></description>
     </item>
   </channel>

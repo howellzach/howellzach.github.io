@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>O365 on howellza.ch</title>
-    <link>https://howellzach.github.io/tags/o365/</link>
+    <link>https://howellza.ch/tags/o365/</link>
     <description>Recent content in O365 on howellza.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Mon, 14 Sep 2020 04:56:50 +0000</lastBuildDate>
-    <atom:link href="https://howellzach.github.io/tags/o365/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://howellza.ch/tags/o365/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hawk - Tooling for Office 365 Log Gathering</title>
-      <link>https://howellzach.github.io/blog/gathering-o365-logs/</link>
+      <link>https://howellza.ch/blog/gathering-o365-logs/</link>
       <pubDate>Mon, 14 Sep 2020 04:56:50 +0000</pubDate>
-      <guid>https://howellzach.github.io/blog/gathering-o365-logs/</guid>
+      <guid>https://howellza.ch/blog/gathering-o365-logs/</guid>
       <description></description>
     </item>
   </channel>
