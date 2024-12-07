@@ -4,7 +4,7 @@
     <title>Python on howellza.ch</title>
     <link>https://howellzach.github.io/tags/python/</link>
     <description>Recent content in Python on howellza.ch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Mon, 30 Aug 2021 05:27:55 +0000</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</link>
       <pubDate>Mon, 30 Aug 2021 05:27:55 +0000</pubDate>
       <guid>https://howellzach.github.io/blog/server-less-slack-bot-token-rotation/</guid>
-      <description>Have you ever wanted to manually setup Slack bot token rotation with server-less infrastructure in AWS?</description>
+      <description></description>
     </item>
   </channel>
 </rss>

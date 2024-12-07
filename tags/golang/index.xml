@@ -4,7 +4,7 @@
     <title>Golang on howellza.ch</title>
     <link>https://howellzach.github.io/tags/golang/</link>
     <description>Recent content in Golang on howellza.ch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Sun, 30 Jul 2023 20:40:22 +1200</lastBuildDate>
@@ -14,14 +14,14 @@
       <link>https://howellzach.github.io/blog/vault-secrets-beta/</link>
       <pubDate>Sun, 30 Jul 2023 20:40:22 +1200</pubDate>
       <guid>https://howellzach.github.io/blog/vault-secrets-beta/</guid>
-      <description>There&amp;rsquo;s a new cloud-based secret management solution on the block.</description>
+      <description></description>
     </item>
     <item>
       <title>Simple CLI Colorizing in Go</title>
       <link>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</link>
       <pubDate>Mon, 21 Mar 2022 09:40:30 +0000</pubDate>
       <guid>https://howellzach.github.io/blog/simple-cli-colorizing-in-go/</guid>
-      <description>Photo by Chinmay Bhattar on Unsplash I have recently been spending some time learning Go and I wrote my first command-line interface (CLI) tool at work.</description>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Bash on howellza.ch</title>
     <link>https://howellzach.github.io/tags/bash/</link>
     <description>Recent content in Bash on howellza.ch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Zach Howell. All rights reserved.</copyright>
     <lastBuildDate>Tue, 16 Aug 2022 11:50:31 +1200</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>https://howellzach.github.io/blog/bash-function-for-checking-installed-applications/</link>
       <pubDate>Tue, 16 Aug 2022 11:50:31 +1200</pubDate>
       <guid>https://howellzach.github.io/blog/bash-function-for-checking-installed-applications/</guid>
-      <description>Telling your future self exactly where to find that tool you need is always a good idea.</description>
+      <description></description>
     </item>
   </channel>
 </rss>

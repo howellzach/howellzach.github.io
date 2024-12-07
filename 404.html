@@ -15,7 +15,7 @@
 ><head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="rgb(255,255,255)" />
+  <meta name="theme-color" content="#FFFFFF" />
   
   <title>404 Page not found &middot; howellza.ch</title>
     <meta name="title" content="404 Page not found &middot; howellza.ch" />
@@ -26,8 +26,8 @@
   
   <script
     type="text/javascript"
-    src="/js/appearance.min.022d0ebc3b46a335eb1c7ef79b7f2de143d7cd5156d433638592ef1ce5f8554e.js"
-    integrity="sha256-Ai0OvDtGozXrHH73m38t4UPXzVFW1DNjhZLvHOX4VU4="
+    src="/js/appearance.min.8a082f81b27f3cb2ee528df0b0bdc39787034cf2cc34d4669fbc9977c929023c.js"
+    integrity="sha256-iggvgbJ/PLLuUo3wsL3Dl4cDTPLMNNRmn7yZd8kpAjw="
   ></script>
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.de8a3c53206d085b56c0ec4446d77a3686898dfd27cfb335c6381cb16d3e11a0.css"
-    integrity="sha256-3oo8UyBtCFtWwOxERtd6NoaJjf0nz7M1xjgcsW0&#43;EaA="
+    href="/css/main.bundle.min.c575dc992baa3c0851599be3b177e5aaa3a38290f824edec15bae38b07230f1e.css"
+    integrity="sha256-xXXcmSuqPAhRWZvjsXflqqOjgpD4JO3sFbrjiwcjDx4="
   />
   
     
@@ -61,8 +61,8 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.ef84f1e4c888f2aa2d84745ad4e1d75d27a8f29d55f84702214c97ecd79fba5b.js"
-      integrity="sha256-74Tx5MiI8qothHRa1OHXXSeo8p1V&#43;EcCIUyX7Nefuls="
+      src="/js/main.bundle.min.af5d9722112bedac95702865c340bcd6286c4e9b2c15ce26b531ea1fba974cb8.js"
+      integrity="sha256-r12XIhEr7ayVcChlw0C81ihsTpssFc4mtTHqH7qXTLg="
       data-copy="Copy"
       data-copied="Copied"
     ></script>
@@ -94,13 +94,17 @@
   
   
   
-  <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="Just another programming and infosec blog" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://howellzach.github.io/404.html" />
+  <meta property="og:url" content="https://howellzach.github.io/404.html">
+  <meta property="og:site_name" content="howellza.ch">
+  <meta property="og:title" content="404 Page not found">
+  <meta property="og:description" content="Just another programming and infosec blog">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content="Just another programming and infosec blog"/>
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="404 Page not found">
+  <meta name="twitter:description" content="Just another programming and infosec blog">
 
   
   
@@ -108,6 +112,8 @@
   
   <meta name="author" content="Zach Howell" />
   
+    
+      <link href="https://bsky.app/profile/howellza.ch" rel="me" />
     
       <link href="https://github.com/howellzach" rel="me" />
     
@@ -131,17 +137,21 @@
   
   
   
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N5S0DZLZKD"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-N5S0DZLZKD', { 'anonymize_ip': false });
-}
-</script>
-
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-N5S0DZLZKD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-N5S0DZLZKD');
+        }
+      </script>
 
 
   
@@ -156,7 +166,7 @@ if (!doNotTrack) {
   
 </head>
 <body
-    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 sm:px-14 md:px-24 lg:px-32 dark:bg-neutral-800 dark:text-neutral"
+    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
   >
     <div id="the-top" class="absolute flex self-center">
       <a
@@ -168,7 +178,7 @@ if (!doNotTrack) {
     </div>
     
     
-      <header class="py-6 font-semibold text-neutral-900 print:hidden sm:py-10 dark:text-neutral">
+      <header class="py-6 font-semibold text-neutral-900 dark:text-neutral sm:py-10 print:hidden">
   <nav class="flex items-start justify-between sm:items-center">
     
     <div class="flex flex-row items-center">
@@ -264,8 +274,23 @@ if (!doNotTrack) {
     <p>It seems that the page you've requested does not exist.</p>
   </div>
 
-        
-      </main><footer class="py-10 print:hidden">
+      </main>
+      
+        <div
+          class="pointer-events-none absolute bottom-0 end-0 top-[100vh] w-12"
+          id="to-top"
+          hidden="true"
+        >
+          <a
+            href="#the-top"
+            class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+            aria-label="Scroll to top"
+            title="Scroll to top"
+          >
+            &uarr;
+          </a>
+        </div>
+      <footer class="py-10 print:hidden">
   
   
   <div class="flex items-center justify-between">
@@ -319,7 +344,7 @@ if (!doNotTrack) {
 </footer>
 <div
   id="search-wrapper"
-  class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm sm:p-6 md:p-[10vh] lg:p-[12vh] dark:bg-neutral-900/50"
+  class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
   data-url="https://howellzach.github.io/"
 >
   <div
